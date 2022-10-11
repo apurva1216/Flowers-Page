@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(206, 231, 236);
+    margin:0;
+    color:#40514E;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+h1{
+  color: rgb(98, 100, 236);
+  font-size: 50px;
+  /*line-height: 2; */
+  margin-top: 0;
+  font-family:"sacramento", cursive ;
+  /*margin:0 auto 0 auto;    it also can placed in center alignment the head*/
+
+}
+h2{
+    color:rgb(8, 138, 127) ;
+    font-family:"" ;
+    font-weight: normal;
+}
+p{
+    line-height: 2;
+}
+
+img{
+    text-align: center;
+    
+}
+hr{
+    border:dotted 3px;
+    border-bottom:none;
+    width:4%;
+    margin:100px,auto;
+
+}
+
+.codeimg{
+    float:left;
+    margin-right:30px;
+}
+
+.codeimg1{
+    float:right;
+    margin-left:30px;
+}
+
+.top-container{
+    position: relative;
+    padding-top: 100px;
+
+}
+
+
+
+ .bottom-container{
+    background-color: rgb(134, 238, 203);
+    width:40%;
+ }
+
+ .PI-row{
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+
+ }
+
+
+.nature{
+
+position: relative;
+top: 10px;
+
+}
+.contact message{
+
+    width: 40%;
+}
